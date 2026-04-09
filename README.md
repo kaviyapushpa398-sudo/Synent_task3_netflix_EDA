@@ -77,13 +77,16 @@ This project was completed as part of an internship at **Synent Technologies**, 
 netflix-eda/
 │
 ├── netflix_eda.py
-├── netflix_dataset.csv
 ├── images/
-│   ├── content_trend.png
-│   ├── type_distribution.png
-│   ├── top_countries.png
-│   ├── genre_analysis.png
-│   ├── correlation_heatmap.png
+│   ├── chart0_Dashboard.png
+│   ├── chart1_type_split.png
+│   ├── chart2_content_over_years.png
+│   ├── chart3_top_countries.png
+│   ├── chart4_top_genres.png
+│   ├── chart5_rating_dist.png
+│   ├── chart6_correlation_heatmap.png
+│   ├── chart7_monthly_heatmap.png
+│   ├── chart8_movie_duration.png
 │
 └── README.md
 ```
